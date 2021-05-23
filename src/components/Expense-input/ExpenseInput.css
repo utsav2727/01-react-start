@@ -1,0 +1,9 @@
+.new-expense{
+    width: 55rem;
+    max-width: 95%;
+    margin: auto;
+    background-color: cadetblue;
+    border-radius: 12px;
+    border: 1px solid black;
+    padding: 10px;
+}

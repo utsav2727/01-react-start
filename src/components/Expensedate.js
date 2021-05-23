@@ -1,8 +1,5 @@
 import '../components/Expensedate.css'
 
-
-
-
 const Expensedate = (props) => {
     var month = [];
     month[0] = "January";
