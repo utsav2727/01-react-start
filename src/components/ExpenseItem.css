@@ -13,6 +13,9 @@
     width: 55rem;
     margin: 1rem auto;
     max-width: 95%;
+    background-color: #3a3a3a;
+    border-radius: 12px;
+    padding: 10px;
 }
 .expense-item__description {
     display: flex;
